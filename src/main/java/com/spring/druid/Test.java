@@ -6,5 +6,7 @@ public class Test {
         String s1;
         String s4;
         String s3;
+        String s2;
+
     }
 }
